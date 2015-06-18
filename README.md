@@ -20,6 +20,23 @@ With the wireframes provided, create all the pages of the website using modular 
 
 ---
 
+## Checklist
+
+- ❏ Page designs match the wireframes for all screen sizes.
+- ❏ Responsive grid system used.
+- ❏ Modular type system used.
+- ❏ Properly set up for all devices.
+- ❏ HTML & CSS properly validated.
+- ❏ Has lots of detailed commits.
+- ❏ No empty or “Untitled” `<title>` tags.
+- ❏ No extra, unused files in the repository.
+- ❏ Folders organized properly.
+- ❏ Files & folders follow naming conventions.
+- ❏ Code files properly indented.
+- ❏ Set up as a hosted GitHub repository with `gh-pages`.
+
+---
+
 ## Relevant tutorials & tools
 
 - [Hosting with GitHub Pages](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
@@ -36,23 +53,6 @@ With the wireframes provided, create all the pages of the website using modular 
 - [Interactive wireframes](http://learn-the-web.algonquindesign.ca/topics/interactive-wireframes/)
 - [Modules](http://learn-the-web.algonquindesign.ca/topics/modules/)
 - [Modular website layout ](http://learn-the-web.algonquindesign.ca/topics/modular-layout/)
-
----
-
-## Checklist
-
-- ❏ Page designs match the wireframes for all screen sizes.
-- ❏ Responsive grid system used.
-- ❏ Modular type system used.
-- ❏ Properly set up for all devices.
-- ❏ HTML & CSS properly validated.
-- ❏ Has lots of detailed commits.
-- ❏ No empty or “Untitled” `<title>` tags.
-- ❏ No extra, unused files in the repository.
-- ❏ Folders organized properly.
-- ❏ Files & folders follow naming conventions.
-- ❏ Code files properly indented.
-- ❏ Set up as a hosted GitHub repository with `gh-pages`.
 
 ---
 
