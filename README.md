@@ -2,7 +2,7 @@
 
 A summer review project to practice modular grids, typopgrahy & design.
 
-#### [⬇ Download the wireframes](https://github.com/acgd-summer-reviews/uniforms-interactive-wireframe/archive/master.zip)
+#### [⬇ Download the wireframes](https://github.com/ltw-summer-reviews/uniforms-interactive-wireframe/archive/master.zip)
 
 ---
 
@@ -39,20 +39,20 @@ With the wireframes provided, create all the pages of the website using modular 
 
 ## Relevant tutorials & tools
 
-- [Hosting with GitHub Pages](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
-- [All devices setup ](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
-- [Media queries](http://learn-the-web.algonquindesign.ca/topics/media-queries/)
-- [**Screen sizes cheat sheet**](http://learn-the-web.algonquindesign.ca/topics/screen-sizes-cheat-sheet/)
-- [Media queries layout](http://learn-the-web.algonquindesign.ca/topics/media-queries-layout/)
-- [Grids](http://learn-the-web.algonquindesign.ca/topics/grids/)
+- [Hosting with GitHub Pages](https://learntheweb.coures/topics/github-pages/)
+- [All devices setup ](https://learntheweb.coures/topics/github-pages/)
+- [Media queries](https://learntheweb.coures/topics/media-queries/)
+- [**Screen sizes cheat sheet**](https://learntheweb.coures/topics/screen-sizes-cheat-sheet/)
+- [Media queries layout](https://learntheweb.coures/topics/media-queries-layout/)
+- [Grids](https://learntheweb.coures/topics/grids/)
 - [**Gridifier »**](http://thomasjbradley.github.io/gridifier/)
-- [**Gridifier cheat sheet**](http://learn-the-web.algonquindesign.ca/topics/gridifier-cheat-sheet/)
-- [Modular typography](http://learn-the-web.algonquindesign.ca/topics/modular-typography/)
+- [**Gridifier cheat sheet**](https://learntheweb.coures/topics/gridifier-cheat-sheet/)
+- [Modular typography](https://learntheweb.coures/topics/modular-typography/)
 - [**Typografier »**](http://thomasjbradley.github.io/typografier/)
-- [**Typografier cheat sheet**](http://learn-the-web.algonquindesign.ca/topics/typografier-cheat-sheet/)
-- [Interactive wireframes](http://learn-the-web.algonquindesign.ca/topics/interactive-wireframes/)
-- [Modules](http://learn-the-web.algonquindesign.ca/topics/modules/)
-- [Modular website layout ](http://learn-the-web.algonquindesign.ca/topics/modular-layout/)
+- [**Typografier cheat sheet**](https://learntheweb.coures/topics/typografier-cheat-sheet/)
+- [Interactive wireframes](https://learntheweb.coures/topics/interactive-wireframes/)
+- [Modules](https://learntheweb.coures/topics/modules/)
+- [Modular website layout ](https://learntheweb.coures/topics/modular-layout/)
 
 ---
 
@@ -65,4 +65,4 @@ With the wireframes provided, create all the pages of the website using modular 
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
